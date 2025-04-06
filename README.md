@@ -1,6 +1,14 @@
-### Prisma 学習
+# Prisma 学習
 
 →[参考サイト](https://zenn.dev/hayato94087/books/e9c2721ff22ac7)
+
+### 技術スタック
+
+- TypeScript
+- Node.js
+- Prisma
+- Supabase
+- Docker
 
 ### 環境構築
 
