@@ -51,3 +51,15 @@ pnpm run lint
 ```
 npx prisma migrate dev --name マイグレーション名
 ```
+
+seed
+
+```
+npx prisma db seed
+```
+
+Prisma Studio 起動
+
+```
+npx prisma studio
+```
