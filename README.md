@@ -45,3 +45,9 @@ Prisma スキーマの検証
 ```
 pnpm run lint
 ```
+
+マイグレーション
+
+```
+npx prisma migrate dev --name マイグレーション名
+```
