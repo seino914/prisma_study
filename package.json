@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "typecheck": "tsc --noEmit",
-    "dev": "vite-node index.ts"
+    "dev": "vite-node index.ts",
+    "format:fix": "prisma format",
+    "lint": "prisma validate"
   },
   "keywords": [],
   "author": "",
